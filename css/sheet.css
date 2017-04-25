@@ -1,0 +1,38 @@
+ul{
+	list-style-type:none;
+	background-color: #2e4c4c;
+	margin: 0;
+	border-radius: 10px;
+	overflow: hidden;
+}
+li a{
+	text-decoration:none;
+	color: white;
+	font-size: 30px;
+	display: inline-block;
+	padding: 30px;
+	text-align: center;
+}
+li{
+	float: left;
+	border-right: 1px solid #000;
+}
+li a:hover{
+	background-color: #308787;
+}
+li:last-child{
+	border-right: none;
+}
+p{
+	color: white;
+}
+
+
+.Me{
+border-radius: 50%;
+}
+
+.linkedin{
+
+text-decoration: none;
+}
